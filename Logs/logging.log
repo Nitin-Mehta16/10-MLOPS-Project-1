@@ -1,4 +1,471 @@
-2025-09-28 11:46:06,285: INFO: main: checking cheking ......
-2025-09-28 11:46:35,691: INFO: main: checking cheking ......
-2025-09-28 11:49:10,771: INFO: Data-Science-logger: checking cheking ......
-2025-09-28 11:49:21,303: INFO: src.DataScience: checking cheking ......
+2025-09-30 13:31:20,200: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:31:20,206: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:31:20,210: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:31:20,214: INFO: src.DataScience: created directory at: artifacts/data_validation
+2025-09-30 13:32:09,213: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:32:09,219: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:32:09,221: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:32:09,223: INFO: src.DataScience: created directory at: artifacts/data_validation
+2025-09-30 13:33:23,897: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:33:23,902: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:33:23,905: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:33:23,906: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 13:34:01,731: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:34:01,737: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:34:01,739: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:34:01,741: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 13:34:59,935: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:34:59,940: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:34:59,942: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:34:59,944: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 13:37:09,703: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:37:09,708: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:37:09,712: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:37:09,714: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 13:38:19,173: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:38:19,180: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:38:19,183: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:38:19,186: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 13:38:49,025: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:38:49,033: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:38:49,037: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:38:49,040: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 13:39:24,076: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:39:24,082: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:39:24,085: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:39:24,086: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 13:40:27,837: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:40:27,844: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:40:27,847: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:40:27,849: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 13:41:39,149: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:41:39,155: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:41:39,157: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:41:39,159: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 13:42:36,878: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 13:42:36,885: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 13:42:36,886: INFO: src.DataScience: created directory at: artifact
+2025-09-30 13:42:36,888: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 20:13:44,804: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 20:13:44,813: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 20:13:45,815: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 20:13:45,815: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 20:13:45,818: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 20:13:45,821: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 20:13:45,823: ERROR: src.DataScience: yaml file is empty
+Traceback (most recent call last):
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\src\DataScience\utils\common.py", line 23, in read_yaml
+    return ConfigBox(content) ## content["key1"] = value1, content.key1 => error, ConfigBox(content).key1 = value1
+          ^^^^^^^^^^^^^^^^^^
+  File "box\\box.py", line 295, in box.box.Box.__init__
+box.exceptions.BoxValueError: First argument must be mapping or iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\main.py", line 12, in <module>
+    obj.initiate_dataingestion()
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\src\DataScience\pipeline\data_ingestion.py", line 15, in initiate_dataingestion
+    config= ConfigurationManager()
+            ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\src\DataScience\config\configuration.py", line 11, in __init__
+    self.params=read_yaml(params_filepath)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\src\DataScience\utils\common.py", line 25, in read_yaml
+    raise ValueError("yaml file is empty")
+ValueError: yaml file is empty
+2025-09-30 20:14:13,734: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 20:14:13,734: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 20:14:14,406: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 20:14:14,406: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 20:14:14,421: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 20:14:14,424: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 20:14:14,427: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 20:14:14,429: INFO: src.DataScience: created directory at: artifact
+2025-09-30 20:14:14,430: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-09-30 20:14:14,432: INFO: src.DataScience: File already exists
+2025-09-30 20:14:14,475: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-09-30 20:14:14,475: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-09-30 20:14:14,483: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 20:14:14,483: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 20:14:14,489: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 20:14:14,489: INFO: src.DataScience: created directory at: artifact
+2025-09-30 20:14:14,491: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 20:15:19,253: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 20:15:19,253: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 20:15:20,000: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 20:15:20,000: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 20:15:20,005: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 20:15:20,005: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 20:15:20,010: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 20:15:20,012: INFO: src.DataScience: created directory at: artifact
+2025-09-30 20:15:20,013: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-09-30 20:15:20,013: INFO: src.DataScience: File already exists
+2025-09-30 20:15:20,017: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-09-30 20:15:20,017: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-09-30 20:15:20,023: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 20:15:20,024: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 20:15:20,028: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 20:15:20,028: INFO: src.DataScience: created directory at: artifact
+2025-09-30 20:15:20,030: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 20:15:20,105: INFO: src.DataScience: -----------------------Data Validation Stage Completed ------------------------------
+
+2025-09-30 20:15:50,068: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 20:15:50,069: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 20:15:50,742: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 20:15:50,743: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 20:15:50,746: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 20:15:50,749: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 20:15:50,754: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 20:15:50,757: INFO: src.DataScience: created directory at: artifact
+2025-09-30 20:15:50,757: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-09-30 20:15:52,429: INFO: src.DataScience: artifact/data-ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4150:271133:12BC13:263F03:68DBED1F
+Accept-Ranges: bytes
+Date: Tue, 30 Sep 2025 14:45:51 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21746-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1759243552.616385,VS0,VE344
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fea1d186d7afd7c0c3aaa25bbe61fe99ddd2b968
+Expires: Tue, 30 Sep 2025 14:50:51 GMT
+Source-Age: 0
+
+
+2025-09-30 20:15:52,484: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-09-30 20:15:52,484: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-09-30 20:15:52,491: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 20:15:52,493: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 20:15:52,502: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 20:15:52,507: INFO: src.DataScience: created directory at: artifact
+2025-09-30 20:15:52,509: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 20:15:52,600: INFO: src.DataScience: -----------------------Data Validation Stage Completed ------------------------------
+
+2025-09-30 20:37:40,698: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 20:37:40,705: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 20:37:40,708: INFO: src.DataScience: created directory at: artifact
+2025-09-30 20:37:40,712: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 21:11:37,680: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:11:37,684: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:11:37,689: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:12:13,699: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:12:13,704: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:12:13,709: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:12:22,623: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:12:22,627: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:12:22,633: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:13:01,962: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:13:01,966: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:13:01,971: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:14:41,497: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:14:41,500: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:14:41,505: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:14:41,507: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:14:41,509: INFO: src.DataScience: created directory at: artifact/data_transformation
+2025-09-30 21:16:05,747: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:16:05,751: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:16:05,756: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:16:05,759: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:16:05,761: INFO: src.DataScience: created directory at: artifact/data_transformation
+2025-09-30 21:16:05,818: INFO: src.DataScience: Splited data into training and test sets
+2025-09-30 21:16:05,820: INFO: src.DataScience: (1199, 12)
+2025-09-30 21:16:05,821: INFO: src.DataScience: (400, 12)
+2025-09-30 21:17:18,505: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:17:18,510: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:17:18,516: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:17:18,518: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:17:18,521: INFO: src.DataScience: created directory at: artifact/data_transformation
+2025-09-30 21:17:18,567: INFO: src.DataScience: Splited data into training and test sets
+2025-09-30 21:17:18,569: INFO: src.DataScience: (1199, 12)
+2025-09-30 21:17:18,570: INFO: src.DataScience: (400, 12)
+2025-09-30 21:19:45,661: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:19:45,667: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:19:45,670: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:19:45,672: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 21:21:31,908: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:21:31,920: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:21:31,923: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:21:31,926: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 21:41:21,313: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 21:41:21,314: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 21:41:23,972: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 21:41:23,972: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 21:41:23,977: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:41:23,979: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:41:23,982: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:41:23,983: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:41:23,984: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-09-30 21:41:23,984: INFO: src.DataScience: File already exists
+2025-09-30 21:41:23,989: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-09-30 21:41:23,989: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-09-30 21:41:23,995: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:41:23,996: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:41:23,999: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:41:24,000: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:41:24,001: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 21:41:24,054: INFO: src.DataScience: -----------------------Data Validation Stage Completed ------------------------------
+
+2025-09-30 21:41:24,054: INFO: src.DataScience: -----------------------Data Transformation Stage Started -------------------------------
+
+2025-09-30 21:41:24,072: ERROR: src.DataScience: Your data scheme is not valid
+Traceback (most recent call last):
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\main.py", line 37, in <module>
+    obj.initiate_DataTransformation()
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\src\DataScience\pipeline\data_transformation.py", line 25, in initiate_DataTransformation
+    raise e
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\src\DataScience\pipeline\data_transformation.py", line 23, in initiate_DataTransformation
+    raise Exception("Your data scheme is not valid")
+Exception: Your data scheme is not valid
+2025-09-30 21:43:42,130: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 21:43:42,130: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 21:43:44,242: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 21:43:44,242: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 21:43:44,246: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:43:44,247: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:43:44,250: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:43:44,251: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:43:44,252: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-09-30 21:43:45,786: INFO: src.DataScience: artifact/data-ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CF47:21BFA6:208B:4FB5:68DC01B7
+Accept-Ranges: bytes
+Date: Tue, 30 Sep 2025 16:13:45 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21735-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1759248825.907136,VS0,VE372
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 87b9a77d4ec49146d22c3c4168f74f350d366b5a
+Expires: Tue, 30 Sep 2025 16:18:45 GMT
+Source-Age: 0
+
+
+2025-09-30 21:43:45,816: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-09-30 21:43:45,816: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-09-30 21:43:45,821: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:43:45,822: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:43:45,825: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:43:45,826: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:43:45,827: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 21:44:16,173: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 21:44:16,174: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 21:44:18,207: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 21:44:18,207: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 21:44:18,212: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:44:18,214: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:44:18,216: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:44:18,217: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:44:18,218: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-09-30 21:44:18,219: INFO: src.DataScience: File already exists
+2025-09-30 21:44:18,224: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-09-30 21:44:18,224: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-09-30 21:44:18,229: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:44:18,231: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:44:18,234: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:44:18,234: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:44:18,236: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 21:44:18,289: INFO: src.DataScience: -----------------------Data Validation Stage Completed ------------------------------
+
+2025-09-30 21:44:18,289: INFO: src.DataScience: -----------------------Data Transformation Stage Started -------------------------------
+
+2025-09-30 21:44:18,309: ERROR: src.DataScience: Your data scheme is not valid
+Traceback (most recent call last):
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\main.py", line 37, in <module>
+    obj.initiate_DataTransformation()
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\src\DataScience\pipeline\data_transformation.py", line 25, in initiate_DataTransformation
+    raise e
+  File "C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\src\DataScience\pipeline\data_transformation.py", line 23, in initiate_DataTransformation
+    raise Exception("Your data scheme is not valid")
+Exception: Your data scheme is not valid
+2025-09-30 21:45:56,121: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 21:45:56,122: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 21:45:58,078: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 21:45:58,078: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 21:45:58,083: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:45:58,084: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:45:58,088: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:45:58,089: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:45:58,090: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-09-30 21:45:58,090: INFO: src.DataScience: File already exists
+2025-09-30 21:45:58,095: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-09-30 21:45:58,096: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-09-30 21:45:58,100: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:45:58,102: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:45:58,104: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:45:58,106: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:45:58,106: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 21:45:58,144: INFO: src.DataScience: -----------------------Data Validation Stage Completed ------------------------------
+
+2025-09-30 21:45:58,144: INFO: src.DataScience: -----------------------Data Transformation Stage Started -------------------------------
+
+2025-09-30 21:45:58,163: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:45:58,164: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:45:58,167: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:45:58,167: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:45:58,169: INFO: src.DataScience: created directory at: artifact/data_transformation
+2025-09-30 21:45:58,206: INFO: src.DataScience: Splited data into training and test sets
+2025-09-30 21:45:58,207: INFO: src.DataScience: (1199, 12)
+2025-09-30 21:45:58,207: INFO: src.DataScience: (400, 12)
+2025-09-30 21:45:58,207: INFO: src.DataScience: -----------------------Data Transformation Stage Completed ------------------------------
+
+2025-09-30 21:46:15,791: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 21:46:15,791: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 21:46:17,850: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 21:46:17,850: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 21:46:17,854: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:46:17,856: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:46:17,859: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:46:17,860: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:46:17,861: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-09-30 21:46:18,991: INFO: src.DataScience: artifact/data-ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: CF47:21BFA6:208B:4FB5:68DC01B7
+Accept-Ranges: bytes
+Date: Tue, 30 Sep 2025 16:16:18 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21721-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1759248978.477267,VS0,VE1
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 192af2e4c1940c1c329975fb6c339819677526a2
+Expires: Tue, 30 Sep 2025 16:21:18 GMT
+Source-Age: 153
+
+
+2025-09-30 21:46:19,024: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-09-30 21:46:19,024: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-09-30 21:46:19,029: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:46:19,031: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:46:19,034: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:46:19,035: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:46:19,036: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 21:46:19,076: INFO: src.DataScience: -----------------------Data Validation Stage Completed ------------------------------
+
+2025-09-30 21:46:19,076: INFO: src.DataScience: -----------------------Data Transformation Stage Started -------------------------------
+
+2025-09-30 21:46:19,084: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 21:46:19,086: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 21:46:19,090: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 21:46:19,092: INFO: src.DataScience: created directory at: artifact
+2025-09-30 21:46:19,093: INFO: src.DataScience: created directory at: artifact/data_transformation
+2025-09-30 21:46:19,143: INFO: src.DataScience: Splited data into training and test sets
+2025-09-30 21:46:19,143: INFO: src.DataScience: (1199, 12)
+2025-09-30 21:46:19,144: INFO: src.DataScience: (400, 12)
+2025-09-30 21:46:19,145: INFO: src.DataScience: -----------------------Data Transformation Stage Completed ------------------------------
+
+2025-09-30 22:01:32,322: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-09-30 22:01:32,322: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-09-30 22:01:34,482: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-09-30 22:01:34,483: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-09-30 22:01:34,487: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 22:01:34,491: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 22:01:34,494: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 22:01:34,495: INFO: src.DataScience: created directory at: artifact
+2025-09-30 22:01:34,495: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-09-30 22:01:34,496: INFO: src.DataScience: File already exists
+2025-09-30 22:01:34,500: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-09-30 22:01:34,500: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-09-30 22:01:34,504: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 22:01:34,506: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 22:01:34,509: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 22:01:34,510: INFO: src.DataScience: created directory at: artifact
+2025-09-30 22:01:34,511: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-09-30 22:01:34,549: INFO: src.DataScience: -----------------------Data Validation Stage Completed ------------------------------
+
+2025-09-30 22:01:34,550: INFO: src.DataScience: -----------------------Data Transformation Stage Started -------------------------------
+
+2025-09-30 22:01:34,556: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 22:01:34,558: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 22:01:34,561: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 22:01:34,562: INFO: src.DataScience: created directory at: artifact
+2025-09-30 22:01:34,563: INFO: src.DataScience: created directory at: artifact/data_transformation
+2025-09-30 22:01:34,593: INFO: src.DataScience: Splited data into training and test sets
+2025-09-30 22:01:34,594: INFO: src.DataScience: (1199, 12)
+2025-09-30 22:01:34,594: INFO: src.DataScience: (400, 12)
+2025-09-30 22:01:34,594: INFO: src.DataScience: -----------------------Data Transformation Stage Completed ------------------------------
+
+2025-09-30 22:01:34,596: INFO: src.DataScience: >>>>>> stage Model Trainer stage started <<<<<<
+2025-09-30 22:01:34,599: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-09-30 22:01:34,601: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-09-30 22:01:34,604: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-09-30 22:01:34,606: INFO: src.DataScience: created directory at: artifact
+2025-09-30 22:01:34,607: INFO: src.DataScience: created directory at: artifact/model_trainer
+2025-09-30 22:01:34,677: INFO: src.DataScience: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x
