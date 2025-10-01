@@ -3,6 +3,7 @@ from src.DataScience.pipeline.data_ingestion import DataingestionTrainingPipelin
 from src.DataScience.pipeline.data_validation import DataValidationTrainingPipeline
 from src.DataScience.pipeline.data_transformation import DataTransformationTrainingPipeline
 from src.DataScience.pipeline.model_trainer_pipeline import ModelTrainerTrainingPipeline
+from src.DataScience.pipeline.model_evaluation import ModelEvaluationPipeline
 
 
 logger.info("Welcome to MLOPS-PROJECT-1 \n")
@@ -48,8 +49,19 @@ except Exception as e:
 STAGE_NAME = "Model Trainer stage"
 try:
    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<") 
-   data_ingestion = ModelTrainerTrainingPipeline()
-   data_ingestion.initiate_model_training()
+   obj = ModelTrainerTrainingPipeline()
+   obj.initiate_model_training()
+   logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
+except Exception as e:
+        logger.exception(e)
+        raise e
+
+
+STAGE_NAME = "Model Evaluation stage"
+try:
+   logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<") 
+   obj = ModelEvaluationPipeline()
+   obj.initiate_modelEvaluation()
    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
 except Exception as e:
         logger.exception(e)

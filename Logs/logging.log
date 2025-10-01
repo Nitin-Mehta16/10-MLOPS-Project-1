@@ -469,3 +469,86 @@ Source-Age: 153
 2025-09-30 22:01:34,677: INFO: src.DataScience: >>>>>> stage Model Trainer stage completed <<<<<<
 
 x==========x
+2025-10-01 10:17:03,520: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:17:03,550: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:17:03,558: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:17:35,041: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:17:35,052: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:17:35,057: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:17:35,059: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:17:35,062: INFO: src.DataScience: created directory at: artifact/model_evaluation
+2025-10-01 10:18:52,910: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:18:52,915: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:18:52,921: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:18:52,922: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:18:52,927: INFO: src.DataScience: created directory at: artifact/model_evaluation
+2025-10-01 10:19:55,888: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:19:55,891: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:19:55,896: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:19:55,896: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:19:55,896: INFO: src.DataScience: created directory at: artifact/model_evaluation
+2025-10-01 10:22:16,897: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:22:16,901: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:22:16,905: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:22:16,908: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:22:16,910: INFO: src.DataScience: created directory at: artifact/model_evaluation
+2025-10-01 10:24:38,221: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:24:38,224: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:24:38,233: INFO: src.DataScience: yaml file: c:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:24:38,235: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:24:38,238: INFO: src.DataScience: created directory at: artifact/model_evaluation
+2025-10-01 10:24:38,755: INFO: src.DataScience: json file saved at: artifact\model_evaluation\metrics.json
+2025-10-01 10:57:26,236: INFO: numexpr.utils: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-10-01 10:57:26,236: INFO: numexpr.utils: NumExpr defaulting to 8 threads.
+2025-10-01 10:58:55,387: INFO: src.DataScience: Welcome to MLOPS-PROJECT-1 
+
+2025-10-01 10:58:55,387: INFO: src.DataScience: -----------------------Data Ingestion Stage Started -------------------------------
+
+2025-10-01 10:58:55,393: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:58:55,416: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:58:55,426: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:58:55,426: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:58:55,426: INFO: src.DataScience: created directory at: artifact/data-ingestion
+2025-10-01 10:58:55,426: INFO: src.DataScience: File already exists
+2025-10-01 10:58:55,459: INFO: src.DataScience: -----------------------Data Ingestion Stage Completed ------------------------------
+
+2025-10-01 10:58:55,459: INFO: src.DataScience: -----------------------Data Validation Stage Started -------------------------------
+
+2025-10-01 10:58:55,465: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:58:55,467: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:58:55,471: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:58:55,472: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:58:55,472: INFO: src.DataScience: created directory at: artifact/data_validation
+2025-10-01 10:58:55,506: INFO: src.DataScience: -----------------------Data Validation Stage Completed ------------------------------
+
+2025-10-01 10:58:55,506: INFO: src.DataScience: -----------------------Data Transformation Stage Started -------------------------------
+
+2025-10-01 10:58:55,527: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:58:55,529: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:58:55,533: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:58:55,534: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:58:55,535: INFO: src.DataScience: created directory at: artifact/data_transformation
+2025-10-01 10:58:55,566: INFO: src.DataScience: Splited data into training and test sets
+2025-10-01 10:58:55,566: INFO: src.DataScience: (1199, 12)
+2025-10-01 10:58:55,566: INFO: src.DataScience: (400, 12)
+2025-10-01 10:58:55,566: INFO: src.DataScience: -----------------------Data Transformation Stage Completed ------------------------------
+
+2025-10-01 10:58:55,566: INFO: src.DataScience: >>>>>> stage Model Trainer stage started <<<<<<
+2025-10-01 10:58:55,582: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:58:55,586: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:58:55,594: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:58:55,596: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:58:55,597: INFO: src.DataScience: created directory at: artifact/model_trainer
+2025-10-01 10:58:55,673: INFO: src.DataScience: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x
+2025-10-01 10:58:55,674: INFO: src.DataScience: >>>>>> stage Model Evaluation stage started <<<<<<
+2025-10-01 10:58:55,681: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\config\config.yaml loaded successfully
+2025-10-01 10:58:55,683: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\params.yaml loaded successfully
+2025-10-01 10:58:55,687: INFO: src.DataScience: yaml file: C:\Users\nitin\DSML\100.MLOPS\10-MLOPS-Project-1\schema.yaml loaded successfully
+2025-10-01 10:58:55,688: INFO: src.DataScience: created directory at: artifact
+2025-10-01 10:58:55,689: INFO: src.DataScience: created directory at: artifact/model_evaluation
+2025-10-01 10:58:58,590: INFO: src.DataScience: json file saved at: artifact\model_evaluation\metrics.json
+2025-10-01 10:59:22,327: INFO: src.DataScience: >>>>>> stage Model Evaluation stage completed <<<<<<
+
+x==========x

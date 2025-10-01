@@ -4,7 +4,7 @@ from src.DataScience import logger
 from sklearn.linear_model import ElasticNet
 import joblib
 
-from src.DataScience.entity.config_entity import ModelTrainerConfig
+from src.DataScience.config.configuration import ModelTrainerConfig
 
 
 class ModelTrainer:
