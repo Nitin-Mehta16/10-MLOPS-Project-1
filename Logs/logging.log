@@ -552,3 +552,29 @@ x==========x
 2025-10-01 10:59:22,327: INFO: src.DataScience: >>>>>> stage Model Evaluation stage completed <<<<<<
 
 x==========x
+2025-10-01 12:18:50,847: INFO: werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.54:8080
+2025-10-01 12:18:50,847: INFO: werkzeug: [33mPress CTRL+C to quit[0m
+2025-10-01 12:19:04,550: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:19:04] "GET / HTTP/1.1" 200 -
+2025-10-01 12:19:04,601: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:19:04] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -
+2025-10-01 12:19:04,749: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:19:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-01 12:19:33,349: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:19:33] "POST /predict HTTP/1.1" 200 -
+2025-10-01 12:20:32,342: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:20:32] "POST /predict HTTP/1.1" 200 -
+2025-10-01 12:20:35,366: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:20:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-01 12:20:39,703: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:20:39] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-01 12:20:39,736: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:20:39] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-01 12:20:41,734: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:20:41] "POST /predict HTTP/1.1" 200 -
+2025-10-01 12:20:41,768: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:20:41] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-01 12:21:21,421: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:21:21] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-01 12:21:21,450: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:21:21] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-01 12:21:22,682: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:21:22] "POST /predict HTTP/1.1" 200 -
+2025-10-01 12:21:22,711: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:21:22] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-10-01 12:21:29,978: INFO: werkzeug: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.54:8080
+2025-10-01 12:21:29,979: INFO: werkzeug: [33mPress CTRL+C to quit[0m
+2025-10-01 12:21:35,602: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:21:35] "POST /predict HTTP/1.1" 200 -
+2025-10-01 12:21:35,629: INFO: werkzeug: 127.0.0.1 - - [01/Oct/2025 12:21:35] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
